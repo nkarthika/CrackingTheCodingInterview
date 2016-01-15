@@ -1,3 +1,3 @@
 # CrackingTheCodingInterview
 
-Some of the interesting challenges from this book(by Gayle Laakmann) here.
+This algorithm finds the duplicates from a very huge array, using very less space.
