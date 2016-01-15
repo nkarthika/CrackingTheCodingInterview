@@ -1,3 +1,3 @@
 # CrackingTheCodingInterview
 
-Some of the interesting challenges from this book(by Gayle Laakmann) here.
+Some of my favorite challenges from this book solved here.
